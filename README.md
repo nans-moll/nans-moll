@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Nans;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F761B2&center=faux&vCenter=faux&repeat=vrai&random=faux&width=435&lines=My+Nans+Moll)](https://git.io/typing-svg)
 
 <!--
 **nans-moll/nans-moll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
