@@ -14,4 +14,4 @@
 
 # Programmation languages :
 
-![Image description](/"C:\Users\nans-\Desktop\photos\golang_logo_icon_171073.png")
+![Image description](\photos\golang_logo_icon_171073.png")
