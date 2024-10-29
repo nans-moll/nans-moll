@@ -13,6 +13,6 @@
    
 
 # Programmation languages :
-![Cover](github.com/nans-moll/nans-moll/edit/main/photos/golang_logo_icon_171073)"
-
+![Cover](https://github.com/nans-moll/nans-moll/blob/main/photos/golang_logo_icon_171073.png)
+![Cover](https://github.com/nans-moll/nans-moll/blob/main/photos/golang_logo_icon_171073.png)
 
