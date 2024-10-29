@@ -14,5 +14,7 @@
 
 # Programmation languages :
 ![Cover](https://github.com/nans-moll/nans-moll/blob/main/photos/golang_logo_icon_171073.png)
-![Cover](https://github.com/nans-moll/nans-moll/blob/main/photos/golang_logo_icon_171073.png)
+![Cover](https://github.com/nans-moll/nans-moll/blob/main/photos/bash.256x108.png)
+![Cover](https://github.com/nans-moll/nans-moll/blob/main/photos/file_type_css_icon_130661.png)
+![Cover](https://github.com/nans-moll/nans-moll/blob/main/photos/file_type_html_icon_130541.png)
 
